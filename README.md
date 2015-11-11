@@ -1,5 +1,5 @@
-<<<<<<< HEAD
+# HEAD
 # teaaaadddddddddaaaa
-=======
+
 # teaaaaaaaass
->>>>>>> testing
+# testing
